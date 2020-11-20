@@ -18,8 +18,8 @@ This is a Startup Project. May contain Bugs.
 ---
 
 <ol>
-<li>Download and Unzip files To Localhost Folder.</li>
-<li>Import Database.</li>
+<li>Clone repo</li>
+<li>Import Database. (https://github.com/kabirkhyrul/HMS/blob/master/hms.sql)</li>
 </ol>
 
 Run Project Through Xampp and Browser.
