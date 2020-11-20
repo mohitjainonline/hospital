@@ -1,15 +1,9 @@
-<p align="center">
-	<img src="https://img.shields.io/github/license/kabirkhyrul/HMS?style=flat-square">
-	<img src="https://img.shields.io/github/issues/kabirkhyrul/HMS?style=flat-square">
-	<img src="https://img.shields.io/github/watchers/kabirkhyrul/HMS?style=flat-square">
-	<img src="http://hits.dwyl.io/kabirkhyrul/HMS?style=flat-square">
-   <img src="https://img.shields.io/github/languages/code-size/kabirkhyrul/HMS?style=flat-square">	
-	<img src="https://img.shields.io/github/downloads/kabirkhyrul/HMS/total?style=flat-square">	
-	<img src="https://img.shields.io/github/stars/kabirkhyrul/HMS?style=flat-square">
-	<img src="https://img.shields.io/github/tag-date/kabirkhyrul/HMS?style=flat-square">
+## Hospital Managment System
+
+[![GitHub license](https://img.shields.io/github/license/kabirkhyrul/HMS?style=for-the-badge)](https://github.com/kabirkhyrul/HMS/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/kabirkhyrul/HMS?label=Clone&style=for-the-badge)](https://github.com/kabirkhyrul/HMS/network) [![GitHub stars](https://img.shields.io/github/stars/kabirkhyrul/HMS?style=for-the-badge)](https://github.com/kabirkhyrul/HMS/stargazers)
 	
 	
-</p>
+A hospital management system (HMS) is a computer or web based system that facilitates managing the functioning of the hospital or any medical set up. This system or software will help in making the whole functioning paperless. It integrates all the information regarding patients, doctors, staff, hospital administrative details etc. into one software. It has sections for various professionals that make up a hospital.
 
 This is a Startup Project. May contain Bugs.
 
@@ -25,6 +19,3 @@ This is a Startup Project. May contain Bugs.
 Run Project Through Xampp and Browser.
 
 
-# Demo
----
-https://www.kabir.infantinventory.com/hms/
